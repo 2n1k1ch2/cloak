@@ -4,7 +4,8 @@ namespace cloak {
 
 class Server {
 	private: 
-	
+	Chatroom chat;
+		
 
 	public:
 		
